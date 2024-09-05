@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Aiden Pridemore
 
-# Your Github username
+# Redwing27
